@@ -34,3 +34,21 @@ let group6 = [
     unique: "has hearing loss",
   },
 ];  
+
+//Filter
+//const filterEmail = (array, email) => {
+//  return array.filter(groupObj => groupObj.email === "halie@gmail.com");
+//} 
+
+//console.log(filterEmail(group6, "halie@gmail.com"));
+
+//Find
+//const findID = (array, id) => {
+//  return array.find(memberObj => memberObj.id === id);
+//}
+
+//console.log(findID(group6, 4));
+
+//const divElement = document.querySelector('#main');
+
+//divElement.innerHTML = "Changing my text with innerHTML"; 
